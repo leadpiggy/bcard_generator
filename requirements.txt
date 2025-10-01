@@ -1,0 +1,4 @@
+qrcode[pil]
+opencv-python
+Pillow
+requests
